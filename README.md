@@ -12,3 +12,5 @@ Learing concepts by doing projects
 5 - https://accordion1287.netlify.app/
 <br>
 6 - https://dynamic-menu17.netlify.app/
+<br>
+7 - https://tabs1234.netlify.app/
