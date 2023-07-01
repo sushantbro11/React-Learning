@@ -14,3 +14,5 @@ Learing concepts by doing projects
 6 - https://dynamic-menu17.netlify.app/
 <br>
 7 - https://tabs1234.netlify.app/
+<br>
+8 - https://slider127.netlify.app/
