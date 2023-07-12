@@ -16,3 +16,5 @@ Learing concepts by doing projects
 7 - https://tabs1234.netlify.app/
 <br>
 8 - https://slider127.netlify.app/
+<br>
+9 - https://lorem-ipsum-generator1738.netlify.app/
